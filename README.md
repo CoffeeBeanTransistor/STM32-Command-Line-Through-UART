@@ -1,1 +1,1 @@
-# STM32-Command-Line-Through-UART
+# Command Line Interface through UART on STM32F429ZIT6
